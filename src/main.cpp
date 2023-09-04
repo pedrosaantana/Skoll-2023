@@ -19,7 +19,6 @@
 #define ESP_INTR_FLAG_DEFAULT 0
 
 std::string value;
-
 std::string comando = "base";
 
 int vel = 50;           // VELOCIDADE UTILIZADA NAS FUNÇÕES 
