@@ -1,0 +1,2 @@
+# Skoll2023
+Repositório do código utilizado pelo robô de sumô 3kg Auto durante a competição RCX que ocorreu durante a Campus Party 2023. O robô Skoll competiu pela equipe FEG Robótica, da Unesp de Guaratinguetá. 
