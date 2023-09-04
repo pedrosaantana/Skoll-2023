@@ -1,0 +1,15 @@
+ANOTAÇÕES REFERENTES AO DESENVOLVIMENTO DO PROJETO:
+
+
+COISAS PARA FAZER:
+
+- Timer para destravar (FINALIZAR)
+
+COISAS PARA OS TESTES:
+
+- Avisar que com os pinos 12 e 13 conectados o boot n tava dando certo
+
+COISAS FUTURAS:
+- Tentar fazer o parâmetro ser enviado pelo BLE (tratar de forma diferente o valor de value e atribuir a uma string VEL e depois usar o stoi)
+- Descobrir como passar o codigo pelo terminal usando o git
+- Descobrir como ativar para abrir por contexto
